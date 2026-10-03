@@ -13,6 +13,7 @@
 | 💊 **[A new revenue line, built inside other people's hospitals](https://jackzorola10.github.io/projects/hospital-pharmacy-launch/)** | 0→1 across 5 hospitals: 30-day launches, 8× the previous management, ~$200K MXN/month per clinic |
 | 🚚 **[A company that survives losing anyone](https://jackzorola10.github.io/projects/truck-test-os/)** | A documentation OS with an AI judge: 9 areas, 28 processes, every one passing the truck test |
 | 🧭 **[AI adoption that showed up in the hiring plan](https://jackzorola10.github.io/projects/ai-adoption-playbook/)** | 30 people, 200+ h saved, 2 hiring requests retired, and the failure I learned from |
+| 🎙️ **[The nightly job that could erase weeks of sales work](https://jackzorola10.github.io/projects/two-axis-pipeline/)** | Rafónica's data model: two axes, gates as filters, privacy checked before every write |
 | 🧾 **[Invoice reconciliation, without the hire](https://jackzorola10.github.io/projects/cfdi-reconciler/)** | 4 h/day → minutes, ~950 h/year recovered, a hiring request withdrawn |
 | 🎂 **[Slack birthday bot on Airtable](https://jackzorola10.github.io/projects/slack-birthday-bot/)** | A paid tool replaced by the data the team already owned |
 | 🤖 **[Can Jack help me with…?](https://jackzorola10.github.io/can-jack-help/)** | Give my skill file to your AI and ask. It's told to be honest |
