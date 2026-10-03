@@ -10,6 +10,7 @@
 
 | | |
 |---|---|
+| 🧭 **[AI adoption that showed up in the hiring plan](https://jackzorola10.github.io/projects/ai-adoption-playbook/)** | 30 people, 200+ h saved, 2 hiring requests retired, and the failure I learned from |
 | 🧾 **[Invoice reconciliation, without the hire](https://jackzorola10.github.io/projects/cfdi-reconciler/)** | 4 h/day → minutes, ~950 h/year recovered, a hiring request withdrawn |
 | 🎂 **[Slack birthday bot on Airtable](https://jackzorola10.github.io/projects/slack-birthday-bot/)** | A paid tool replaced by the data the team already owned |
 | 🤖 **[Can Jack help me with…?](https://jackzorola10.github.io/can-jack-help/)** | Give my skill file to your AI and ask. It's told to be honest |
