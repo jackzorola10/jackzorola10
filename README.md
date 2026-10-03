@@ -6,8 +6,20 @@
 
 #### 👉 [See the portfolio: jackzorola10.github.io](https://jackzorola10.github.io)
 
+**Projects**
+
 | | |
 |---|---|
 | 🧾 **[Invoice reconciliation, without the hire](https://jackzorola10.github.io/projects/cfdi-reconciler/)** | 4 h/day → minutes, ~950 h/year recovered, a hiring request withdrawn |
 | 🎂 **[Slack birthday bot on Airtable](https://jackzorola10.github.io/projects/slack-birthday-bot/)** | A paid tool replaced by the data the team already owned |
 | 🤖 **[Can Jack help me with…?](https://jackzorola10.github.io/can-jack-help/)** | Give my skill file to your AI and ask. It's told to be honest |
+
+**Ventures**
+
+| | |
+|---|---|
+| **[Rafónica](https://rafonica.com)** | Creator ↔ local business marketplace, consent first · founder |
+| **[La Consultoría](https://laconsultoriaregsan.com)** | Health-regulatory consulting (COFEPRIS, ISO 9001) · partner |
+| **[LunaSurfer](https://luna-surfer.com)** | Ticketing for independent bands, Stripe Connect in production · founder |
+
+[LinkedIn](https://www.linkedin.com/in/jackzorola/) · [jackzorola10@gmail.com](mailto:jackzorola10@gmail.com)
