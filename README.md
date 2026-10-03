@@ -10,6 +10,7 @@
 
 | | |
 |---|---|
+| 💊 **[A new revenue line, built inside other people's hospitals](https://jackzorola10.github.io/projects/hospital-pharmacy-launch/)** | 0→1 across 5 hospitals: 30-day launches, 8× the previous management, ~$200K MXN/month per clinic |
 | 🚚 **[A company that survives losing anyone](https://jackzorola10.github.io/projects/truck-test-os/)** | A documentation OS with an AI judge: 9 areas, 28 processes, every one passing the truck test |
 | 🧭 **[AI adoption that showed up in the hiring plan](https://jackzorola10.github.io/projects/ai-adoption-playbook/)** | 30 people, 200+ h saved, 2 hiring requests retired, and the failure I learned from |
 | 🧾 **[Invoice reconciliation, without the hire](https://jackzorola10.github.io/projects/cfdi-reconciler/)** | 4 h/day → minutes, ~950 h/year recovered, a hiring request withdrawn |
